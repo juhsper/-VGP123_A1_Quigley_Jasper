@@ -1,0 +1,7967 @@
+fileFormatVersion: 2
+guid: 155c08c225428d2468a2902bd32f0a7d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smb3_mario_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1482
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e3a8c8a1d69849b9ff8714cdb54f3
+      internalID: -355109496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1480
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5535134b1ae4a51488813f6701b94258
+      internalID: 599216328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1478
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec982daa7c30ec944afffeefd4f011bb
+      internalID: 1713702344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1478
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee0e0bdd0d3b34ca93346e30df310b
+      internalID: 1771355733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1485
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0bf22b634f99b41bc73337ca338873
+      internalID: -707504881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1484
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bcaaecdf4a27d4b89b03e739c19103
+      internalID: -1885675958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1485
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37da340c33b35bc4dae6d053e4f182f2
+      internalID: 304894123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1485
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd76599c2a7b4f1478872b0d41e846d9
+      internalID: 1260345446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1462
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f68c0272385148ab0dcafea9a9d7f
+      internalID: -1621535635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1462
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3e715512298d43a372c574621d699
+      internalID: 1296898984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085529f34a247b44eb77ed0703d451d9
+      internalID: 1199331922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1462
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd270b1f696fa814ba7a04d74f71e29f
+      internalID: -163909290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1442
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34f8f31a14339409b4ed5df2ec68b0
+      internalID: 1126234710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1440
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae37badb286a3414a974ef042474e163
+      internalID: 1421501040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1438
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7614541698d5ad344b4cae8f08e16f54
+      internalID: -980383578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1438
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666c62e9a0c0a5e49a6f0005e960a4db
+      internalID: -1768986553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1435
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ca18bfbfd9b74db0569c62c33b37d
+      internalID: -487300939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1433
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9262ae82ff1544eaa1a521c7f2b6eb
+      internalID: 325491584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1435
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb56137fd7e9b5b4fa8c46d4ef463a94
+      internalID: 2044596175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1435
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ae615a51e31e7479817709f2aae39a
+      internalID: -539705693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: littleMarioJump
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1402
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7d14332838f4a4aa5170ca4c83d2c3
+      internalID: 380037688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: littleMarioWalk
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1402
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b55fa858e67d249bf110ebb7f0ca82
+      internalID: 868091808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: littleMarioIdle
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1403
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af08cdb5a9b41df439c92ae09a76c3ff
+      internalID: 280249846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1403
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec3f304bb5e6847ae364a01d722b43
+      internalID: -696604654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1402
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3383b2eab47fd438c019283d1694eb
+      internalID: -1174776102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8d7069a75a9aa4bbba07c8d430e4ae
+      internalID: 917184422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5849d4ff40860854096ef738afa280e9
+      internalID: 668267815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1363
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eb898c1b06ed74ba3dd043f3f5a4b7
+      internalID: 151697576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: littleMarioJumpAttack
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1362
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fed8eab2aa2084fa2464edb5dc8c2f
+      internalID: 552098680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cb7be6ce25acd4aa0eb24b32e81cf2
+      internalID: -1184540413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4caf51b89ee3542a61ecb6a9400ea4
+      internalID: -882807489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3afe17bf24d5b41a6f7eb0d9978184
+      internalID: 1336157151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137588944c41ad24d833a3d58619e70f
+      internalID: 1075709344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1362
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf81c9ae5915640830a8c7764f577b
+      internalID: 1604595258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1363
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee95e115c0b37240a61a3128b6236da
+      internalID: -1200436176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b44826e6a3bd5f4cad5f9389900a317
+      internalID: -1947393837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: littleMarioAttack2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1322
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2648b9e0a2e93f241b9ab9a532e55a7d
+      internalID: 1799256846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: littleMarioAttack1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1322
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f05f31263373458ab987a0e50c62a
+      internalID: -983542300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95066b9fe732f8944b32807a62a5eca8
+      internalID: -920782039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e424aadfd269347a101fe8e8466769
+      internalID: 1498860891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0e824bf3fce740a13a598371181f5
+      internalID: 419445453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3b67d7cf7b284f9183c515b72c675
+      internalID: 360156146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1322
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8ed91df8fad047be959d9ab21e669
+      internalID: 1172954166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1322
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67282cb00b3499d45b3ed7c4302233b4
+      internalID: -288284188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5ae680640f1a948b04b570c66c4590
+      internalID: -876537973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1282
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14681643e065bf6428e324c2cf92149a
+      internalID: -1580693795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1283
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6073fa4858f0734e9143af56da0230f
+      internalID: -1610227461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be920419509abcd4496515f078532e6e
+      internalID: 113154809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f36b9978b1e63849ae52d424a5acd92
+      internalID: -109104279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd4b0f9ae390c44a05e1931efefe4c
+      internalID: 1033777691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223778d345028ef478ca60d155342444
+      internalID: -492945528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1283
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7ed4ff67694ca46be8c1e46e8787d3
+      internalID: -1542903212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1282
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9043d278352d4993d8400568c6b1c
+      internalID: -360240780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a7a9d8e918bac42bae91c5712409c7
+      internalID: 1936587465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1241
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce586c38b9e5c41ba7d6be507f9ccd
+      internalID: 1988965811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1237
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7d773be2f0544ebe14747011e230b
+      internalID: 631334035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1237
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae8cb6342a436c47bcd8f3fa029eb09
+      internalID: 631865782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1237
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561cdcc58919c77478734971bfddc6ae
+      internalID: -194927487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1237
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730a3d321a8efb42a023cc047a17a5c
+      internalID: -1226358068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1237
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d125ce6c65ee49ab0f5a8d8121c68
+      internalID: -1821344174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1237
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259423e993bb3da42ac48795d0719d7c
+      internalID: -170290852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1237
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f4cd381de80764883840dc1b6c418a
+      internalID: 1360553803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1237
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3abab95e89dfe499db7cfe7821516d
+      internalID: 846417220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1241
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402bc10936601b446b1570a21220601c
+      internalID: 498238232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd66f479f3f901644bf1bf29ca8af4b2
+      internalID: 52447492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b638f50d5725c43829b9a3210484d4
+      internalID: 1379764854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042a7c4f61c4ef45b15c0207ddc5c30
+      internalID: -805868171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1197
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d1ca0809a82344eb13989a3fc62880
+      internalID: 243493848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bfe3c06069f6e4695aaa93631e563c
+      internalID: -1056101806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81842296c4fe58148aa272b629be3955
+      internalID: -2082505906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1197
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff4dbef48206f047b0fc48a4c5f3f19
+      internalID: -34181839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac64eb4a7de2f94aa1b1e8a64796ab0
+      internalID: 1008099858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b22898c4cf5c9418407f4f68a93ee0
+      internalID: 560920516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90f55476da60f54891f7dbd1d4a18ee
+      internalID: -1465250381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1157
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75fb6606cc22c644849412b5f0a1eb3
+      internalID: 1707220804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1157
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d964189facf4cae4cbd28b05b71ae1bb
+      internalID: -848227884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1157
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f2eb434cf7e6d4193486d45ef48a97
+      internalID: -387397718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1157
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bdf0f8bb535024cac5d2df87288049
+      internalID: -1952944818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1157
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a86ae76af7bc45bd38ce6a3a3924e
+      internalID: 1433419664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1157
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7391023e6556fcd469c522428db10e43
+      internalID: -1655994117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1157
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e7015ee3aeb0448869f59cdd3b197
+      internalID: 368101924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1157
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084aff66a209d4a43b512dd2b1a7d2cd
+      internalID: 1737423942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1157
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f26317f9b086b489cc9715522b5bdd
+      internalID: 245574115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1157
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628ffef8fa7e53a4aaf251e106cacdf4
+      internalID: -249643557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1157
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741679e78f034654c8816a173c006f60
+      internalID: 1994408524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1157
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3312b7aafd7557a4cad5f5ddd65e701f
+      internalID: 1936507353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1117
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36d8800eed3b34c97bf64c36917f94
+      internalID: 1579049691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1117
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3462794eee91f479b042ae8a54a7e6
+      internalID: 1152441590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1117
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc82488d6f4a654a86e88b47b442a78
+      internalID: -309588007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1117
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885f1fdb347ca742a437e0dd6d4e497
+      internalID: -1828281988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1117
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06b0d2fdeea1364aa4b916af2e81612
+      internalID: 209796031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1117
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7f2db3c806aff42b0a79db27b284ec
+      internalID: -1931968151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1080
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e684e4b5f0b943a333fb64a50aec0
+      internalID: -1171245048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1081
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550d6074e11da284e82c6be15e08180d
+      internalID: -1422794932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1080
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde2c4ecd18c4154e810af83a449e18a
+      internalID: 1282812882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1080
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28036344f10f1d3408645f811a25ab28
+      internalID: 1326055148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1080
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44b6d3e86888f546918261218bee8c8
+      internalID: 853965476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1080
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b34363c2d681fd419e77ca33928b685
+      internalID: 1319839046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1081
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926092db07c208448be2cfa35a08c63d
+      internalID: -1135176736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1080
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22e65070fae5d44b9841f8f386d2c4
+      internalID: 650671571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1041
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a849c36b8a0b68043a73de91811c767b
+      internalID: -755661163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1037
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d440e051304b7f4482557de3fa5011f
+      internalID: 558180366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1037
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8d3d2469cd3084880d9efa673cd001
+      internalID: 752000403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1036
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7accb397775ed774184bfd6e45a5acea
+      internalID: 324154669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1036
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf6719e30339740a078cc7f52c5ef0
+      internalID: -1269146916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1036
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86655f81492eec49899673eeb882c56
+      internalID: -264620248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1036
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907172ca3ba4560488eec0f3fefff888
+      internalID: -2055897439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1036
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab511c5075911d40ab46b965c57be98
+      internalID: 1130974638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1036
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0496ef49622d0ac45a373e21825e2bfb
+      internalID: 1764903847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1037
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16348a4e22745d4186b10871966d4c5
+      internalID: 1714020728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1037
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbe77863ecadd040b7c7d0aa451fb4c
+      internalID: -285827435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1041
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f29543856898418dfbf5951756877
+      internalID: -1261849751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c76190a036e3f445a26dacbb730124a
+      internalID: -92437449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94223631df7eb104cb6ff1cc7dad6d46
+      internalID: 1371546451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9633db122ea3fd744846fc9fa7388db2
+      internalID: -436995463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 997
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceca3742c547a945881533700ba457f
+      internalID: -1171802989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 996
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75b394b3d5a0474c9c27d6e238765ad
+      internalID: -616762865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 995
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85de0d65d0c1c488c3c7a4ef5c843b
+      internalID: 438657881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 995
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb0d65d1be3a446987d19332eadc01
+      internalID: 282440442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 996
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637f407bbe980e34bbe50433135aaf63
+      internalID: -796970669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 997
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b307483841391458533e1d74118331
+      internalID: 825869548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef7be2976d16f48a90a46cddbd6de3
+      internalID: 70873559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da13d76bef6cb849b275cc67d826e68
+      internalID: 91865151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4aaffe997179c4f947b67de4c3dd91
+      internalID: 1259596325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 957
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f05fe9dae1ad641b8705678b81e2d1
+      internalID: 158808002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 956
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f982d09a10c3f745a8d5c9ed5f94f21
+      internalID: 481686047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 956
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17519186a1ca18f49bf368bd6af0adb9
+      internalID: 1001719932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 957
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4dbf7bf9f5764c9121c8c62b0c00a
+      internalID: -1711046652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 956
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7565f02f9b3a2d4e9f209686b4bbf52
+      internalID: -1855494327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 956
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10a5e17c40a354dba0636b3003c97c
+      internalID: -294226957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 956
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3451b88e09987c54b9fea91656820ff9
+      internalID: -859749707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 956
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5379e0fa5d01d47b3e1fbde6472ef6
+      internalID: -513563516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 957
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103ea3f02990f343b7faa5e15a9c962
+      internalID: 209935986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 956
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f845a9fed39faa46a4b5dc98c842905
+      internalID: -912338999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 956
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ef1903f7106b94e95cefa2327c1558
+      internalID: -1079166878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 957
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0469d0fba26343a8f6157749310ad
+      internalID: 351838879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 916
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8a219ed37fd948b83954fedf6b907
+      internalID: -1940494573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 916
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c217b26e9a2c74e8cee1facb30dbed
+      internalID: 1060081772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 916
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33df52faaaf019e4e8b50e0d8f452b15
+      internalID: 272235987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 916
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1145529efb320347ba714ffa311039b
+      internalID: -1986716071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 877
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d5c943869b3124f85adb6ccead5dad
+      internalID: -1395450031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 877
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456efb0536fc574fa9921fb4662be14
+      internalID: 1534717231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 876
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f058a19f2385cf941b4e4525c2bb3f82
+      internalID: -1669426384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 876
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f6c93b5fd37004c8f101c24c74ad6d
+      internalID: -1080723161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 877
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a58ed39d89eb74abe7a45044bdf297
+      internalID: -1720858889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 877
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6dd3a199eaf44eb69a0c7eaa27ff2
+      internalID: 1580835280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 876
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926b082c90d65e49b19fcb399eac52f
+      internalID: 761235564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 876
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d379886f5adfc240a5d0551a2a8f412
+      internalID: 506799031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 877
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa50fb2b04c9d4ba5d3cfa9caa0fd2
+      internalID: 656692199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 877
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15895f344b64545b33ceb0ca90de2b
+      internalID: 1299082396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 840
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5005a816d19bfe44a2f377135ec5417
+      internalID: 937253815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 840
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acf9936b066e514f98393f577e33464
+      internalID: 712509777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 840
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4756e7b630ba8442ad164331daa2565
+      internalID: 736013222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 839
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c4ad8ca9eb4dd439d016a211dbb089
+      internalID: 1311018516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 839
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f6069f2df4cfa4baadc4298a2e8e81
+      internalID: 482858034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 840
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da9d2b2d78c76f46b750692dc26153a
+      internalID: 89621364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 840
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1310718b2509434eaae8095828c6742
+      internalID: 342080531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 840
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a506f75a8d280634482d739007190ee8
+      internalID: -1097962242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 801
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8366077f2f16e44a564cfd0ce2de69
+      internalID: -1411609444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332bad5364d3ce4291e64c115f5c954
+      internalID: 1242966872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365f76e1d86134a419a23af61b45190f
+      internalID: -1831637306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 797
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47b87d162001e34ca18b46271b18e2f
+      internalID: 1059716635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 797
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a41300a3007f0a41b38988e32f3c565
+      internalID: 714491200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 797
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e759794a36a4a145b447a1b4a4dc75d
+      internalID: -2041045981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 797
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f846d24295d0d64da1509af2595ec62
+      internalID: 1070803068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d4f684a93ef944b13166a4526bc4c
+      internalID: -860438116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612fc3943edd9e94aabf03ee55fe2051
+      internalID: 1713090946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 801
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d499177831fbb4c4ba50ca4c587a82f8
+      internalID: 1190526400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 757
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109eb71ce76438469170765b10e928c
+      internalID: -1832589051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 758
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811bf1bdbd5f188428d16d53cbd1128e
+      internalID: -550948355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 757
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547c6386227e4894f8e2544892cf48ef
+      internalID: -1126522111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 757
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49629650c4606084eab770aee747a660
+      internalID: 1534586800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 756
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f669708fb3b63934c894d8d316c2562a
+      internalID: 1413798469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 756
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58113878affbd664ebef88cc2909f4f5
+      internalID: -652930209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 757
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c36d2195ce5a3d44878c42207fc5f48
+      internalID: 1540577322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 757
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075b151327b2934b885b1d056375739
+      internalID: -457202761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 758
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec64e56760b9b34dafb3c11dbb80bc7
+      internalID: 1358153656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 757
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc446402a66273645a914d35487946d3
+      internalID: 1316906587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 717
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a43a4e66d9ae5459deb7c5516c09d0
+      internalID: -714355859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 717
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713568f49f19ed47b842a82b18eb84d
+      internalID: 1076069155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 717
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b14b18f90babfb44ba5c5ffde63c0c6
+      internalID: 283112167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 717
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f61547e27f0abd4e913cf57e74d2269
+      internalID: -221279481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 717
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d67e2cd9eb5c194a8739a4eafcf849e
+      internalID: 1290211882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 717
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8489cba5c2f9234ba54cb061d3b27d2
+      internalID: -1488181625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 717
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ee5c8306da074e9e9626ff4e7e1fb
+      internalID: 1835651660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 717
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca386e4602127478ed4abdc49fd70c
+      internalID: 1721906846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 717
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426a5b1dc23a7f4c80542e9c0b4cfb8
+      internalID: -824139505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 717
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804c50672d57854788fe6c9ea241d2f
+      internalID: 1607411644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 717
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b008ac44ef934e148bf7c0dcf8d1c3d9
+      internalID: 2060368974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 717
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98b2ddf9d15cb542bd8018a262cc205
+      internalID: -1811759352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 677
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14c9a237aa6878438543d13558a081a
+      internalID: -625999186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 677
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de842488905d52a4ca840993067d8f56
+      internalID: -1100489892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 677
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030c9b6f9e941f84c8adea49c4c3d186
+      internalID: 1332466169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 677
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd280b4658e47064aa983cdaa2b908c1
+      internalID: -679569340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 677
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99228f0f2a2c84499ffbba1014c8aa
+      internalID: 555866922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 677
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5451e997aae11148a0b9af2f328745b
+      internalID: 2045230825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 677
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85fc05c483f4074a83a1eb84e0d8e9c
+      internalID: 839507203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 677
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e94b624bed6149ac299cf4a78abde
+      internalID: -1802401110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 677
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dba095e414388428cfa8ce188e8604
+      internalID: 1993649966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 677
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5b814c9bf32414dadd6b8b8d56ba9f
+      internalID: 11148911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 640
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237bfc9b6f17854bb20332820022d9c
+      internalID: -830126065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 641
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71508a11ba7b7a142be9833f350de8db
+      internalID: 1740536153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 640
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976a2bf8148aca4ca3b06a3a3a497da
+      internalID: -1627921384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 640
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51ba56806d64d744a21b90f40a4996e
+      internalID: -168407661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 640
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f8426ecc85c4546a8a4a8203636742
+      internalID: -584732934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 640
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4b7c19eafd124bbf09f1f7436f4bc
+      internalID: -1509581487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 641
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1a7ca12b3f9f84e88596f4a3adaf55
+      internalID: -2098065118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 640
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74950be259b2d7044991381e95367c0b
+      internalID: -1854666909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 601
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e155893c5c9e45aa1b66eb6d27d3c
+      internalID: -994728340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 597
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568fccb308956d940abff1c48ba233d0
+      internalID: -150773999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 597
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c156b8b974d27c41a9141e5c706e966
+      internalID: 15223408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3dc30eb4917c94593688456bed694c
+      internalID: -1668750367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 596
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984b7465cd271f24898fc4b460692cb8
+      internalID: 486382767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 596
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de11f216910c1c7448def66d6e40fa3d
+      internalID: 206692898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 596
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48785a4e6a097c04ab7e6a764774d40c
+      internalID: 1565150820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 596
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f22adf813adc64195f3e73627dca14
+      internalID: 1425120874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_216
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d33f98b8cd6f544859287a35954498
+      internalID: -1649206102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_217
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 597
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36a7097b8caf04f8dc19b22f85f3d5
+      internalID: -1781431363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_218
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 597
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2f7465789b3c4380b48c7bfaeac0d
+      internalID: -2120920304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_219
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 601
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf0fda906cf90488f3e009e843052e
+      internalID: -1072478866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43795885d79b354a8468fcfd9ff4eff
+      internalID: -2052746779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_221
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01bbceb4dc830458eb1aee0e691c85
+      internalID: 728086673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_222
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 556
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb4118733343fb42bfbef18684060f5
+      internalID: -1903138416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_223
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 557
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f472bc895f6e8468406dacb2bbd7d2
+      internalID: 1153474444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_224
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 556
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3828123af56ed48956ba19914d4044
+      internalID: -735417814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_225
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb5a79cf52821e45b4716fc1a575b67
+      internalID: -1773185615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_226
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b579f2d117035a74d8af98823caf3848
+      internalID: -1232565476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_227
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 556
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c196376f56c43f4eadd2106cd8bfa4d
+      internalID: 265336447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_228
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 557
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217a0a309f7b7ec4f8cb9395a78c5e12
+      internalID: -1684424990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 556
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87baad0a2b7cfa94fa0d39dd71615d3a
+      internalID: -208098498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_230
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a0b83fa5faf746bc863f9598c26b0
+      internalID: 1738598570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_231
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad5150c7f843441854eaaa94bbd119
+      internalID: 228903024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_232
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d3f5eeebc8f99498faab7861c145f6
+      internalID: -900545373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_233
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 516
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f235ae58fe3d9c343afa7b4149430200
+      internalID: -1989051865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_234
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 516
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903f4adf11a19da42aa9ff660306db8f
+      internalID: 1004760206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_235
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 517
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b79704379acdf418062c4b58f48690
+      internalID: -1268873008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_236
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0714737928503834e9017d241aca8d7e
+      internalID: -1840020571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_237
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86bf1a75b3bb134ba8881cf2b8b59a1
+      internalID: -1847232157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_238
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02a53933236fe4da35015ff8697979
+      internalID: 1710632473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_239
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48788f73c3e82b84c83701520490b7d7
+      internalID: 579278420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_240
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 517
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ea4280a82bdfb468491f0797285d3d
+      internalID: 793984274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_241
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 516
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5fb3d9555b6cb48bb1e25cbf39c0a0
+      internalID: 1349884855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_242
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 516
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a8148ef8df5204f90a7b0b2b85c571
+      internalID: -913650856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_243
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9441912beb9c048aaeece6f05439b7
+      internalID: 1753108812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_244
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9646a08cd23dce448f5e8a16c28b5da
+      internalID: -1740064168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_245
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 476
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ecfd17ee50dd4c9c33c1782083f02
+      internalID: -813153748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_246
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 477
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85a8053bb143648baac66bacf8ada7
+      internalID: -1673357030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_247
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 477
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c30781549a274b9abb3919a34f14a
+      internalID: 1084029553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_248
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 476
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550d623e54ebad04cac273cdad8e7b79
+      internalID: 199602386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_249
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 476
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd88fb23dafc29543b39c7a5a7814680
+      internalID: -2132923428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_250
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 437
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ffae741aa54244881446d4d62067fc
+      internalID: -55785697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_251
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 437
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac0312c5f386404dacfb0ecde4e1488
+      internalID: 139499314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_252
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 436
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d2fb18d7d9cb4fb304e0b2e3d3b81
+      internalID: 1337652980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_253
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 436
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9644e609b7b475847a858a8e923d5f1b
+      internalID: 1996940820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_254
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 437
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb4f8f29c5ea7d4da06010a256cd406
+      internalID: -212370654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_255
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 437
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea33de4bb7b1894081bd9e27d66312a
+      internalID: 1822918485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_256
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 436
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e059fa47d8da4cb2d53116e61f13e
+      internalID: -608912472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_257
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 436
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84547a554072934f84b8fdf9d000223
+      internalID: -1722131436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_258
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 437
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690a8554bc3eafa4a8c22dbbef2c1bdc
+      internalID: 1247547873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_259
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 437
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9544c1f07697ce0448fc14f438d6121a
+      internalID: -1177865755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_260
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab16da46c83a394cb87e7a8c1b1f2be
+      internalID: -504946760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_261
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 400
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4bdcd49d9e7bf418f512d30d6b84a2
+      internalID: -1422977617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_262
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 400
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbf3db4aafb0f84fabcbb6edfe3acec
+      internalID: 311278587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_263
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35456cedc764de54187c927c211497d3
+      internalID: -161042716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_264
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c1172cc0639f54c93062553a9e1f7e
+      internalID: 2074451846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_265
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 400
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b902a8ba6a8222438e95476c07706e4
+      internalID: 1250127706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_266
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 400
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521798cd27ca270448afe6f8765d815b
+      internalID: 814292144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_267
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b60992a02097d4e8e8c2c274ec6541
+      internalID: 2101591154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_268
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 356
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a519e1492b78345a87ca4bd316827c
+      internalID: 86444296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_269
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 356
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4506da836fe4b4588e588514b649f7
+      internalID: -181175974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_270
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 358
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b9e8cb4e1cf6e4ea3e8be755f6ca1f
+      internalID: -521192668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_271
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 358
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d73a5018500a4292aaed88e88ea55
+      internalID: 1935359255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_272
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 356
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea4b8ea7be3e97408e6eb79c8830bde
+      internalID: -188263788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_273
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 356
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09fa6f25daee44fbe61b3739c6fcee
+      internalID: 275424604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_274
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 315
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584149447b01b6f42a43c758cdd10f27
+      internalID: -1555250704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_275
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 317
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe15f277ed9b474ea0c752a3e039d7b
+      internalID: -916767737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_276
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 315
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4d2bbd7881baf4bb11d605cfb1155a
+      internalID: -901157345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_277
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 315
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9831f108e22c37d419792278ebcaa8e4
+      internalID: 2124038536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_278
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 317
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc6c3ffa524324d80b36a07b25e17e
+      internalID: 1535907909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_279
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 315
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1eb0a31e5d5f541bb6c7bb1a99afba
+      internalID: 1179452582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_280
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 275
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685583661e05a3418c634cc7cc3736c
+      internalID: 749598388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_281
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 275
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275949112405ca5438c44de679c979cc
+      internalID: 1115631736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_282
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 275
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfbfc143758fec46b8ee485a98d690e
+      internalID: 2048936620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_283
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 275
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7234136330cc5d479afb0fa5dac2d4a
+      internalID: 1489984647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_284
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 275
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbb2822974613b4a812f27615158a9f
+      internalID: 2024173904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_285
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 275
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87905a2336d484fa473c9397932a6e
+      internalID: -1415037769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_286
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 239
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69d21cfb3d832d4c87c81503e7d2ae5
+      internalID: 1963193419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_287
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c562915a62e63469066df8f2e64999
+      internalID: -779377377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_288
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 239
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5d4f6296b975c459941e5e5c0ce56a
+      internalID: 1037829123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_289
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 239
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b16e41f49b4b3646bd82dd7e511e4a0
+      internalID: 633843300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_290
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 239
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3012e8fb9ba7ad43b65aaaeedd97c00
+      internalID: -880829338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_291
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 239
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e100fbc2278e439c92079cef6b9ac
+      internalID: -1436346687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_292
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 239
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e3e85a51a9904e8f6e12f5b298492
+      internalID: 514495046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_293
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 239
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa42c7513931914a90039a20d4db77e
+      internalID: -1616221144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_294
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 239
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e5d527328aa343bbbb09e8d82c527
+      internalID: -1283619928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_295
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 239
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8803f571df3548ac6e4715a62e044
+      internalID: -972842700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_296
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafcbacd3107d5144b2b9faf85ddb4a0
+      internalID: -1449178186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_297
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d2a5de5fce61468b1ad3684769b3f
+      internalID: 376681069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_298
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf726ab016017d34fac47110e7d970da
+      internalID: -1893443376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_299
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5572b56eddeed26438099ebd77ffa4da
+      internalID: 1986594148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_300
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 198
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091c8d8dc61d0cc4dad6f41c3b5a2d5d
+      internalID: 903429406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_301
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a536c48e5a9f03443928bb90e8897e1b
+      internalID: -1294121866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_302
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d1007b581e0541983623f39b63685
+      internalID: 751055133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_303
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 198
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734339e5a7789b48929ec944dd8c153
+      internalID: 1768087404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_304
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a2f040864431647a2ff8b50595ebe4
+      internalID: 1694579306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_305
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3456a01ae123814d9d553fe4ae516fb
+      internalID: -1625705498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_306
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832162fe5df9fad46b4a4ef7be12ea19
+      internalID: 570489976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_307
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2848d5553f0b644db57c437ff5726c7
+      internalID: -373816351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_308
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549742e249aa7764f910884c724d0737
+      internalID: -348291055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_309
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 157
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9b144a99144f347bb096c4cffe7538
+      internalID: -1953525730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_310
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 157
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0426feee9e2488b4da888b8ae432f897
+      internalID: -1340155626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_311
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc637bf0acece8428fd5f4e29dcc54e
+      internalID: -1668400857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_312
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4d089a6b91c87488cbaa61160f396d
+      internalID: 266971983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_313
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9209c5d95b2604cae07dc934c5dbfb
+      internalID: -2135229088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_314
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a3b8ea82d4fed44b57f8027f39b48c
+      internalID: 1439626970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_315
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 157
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e206a92c44b1f4cbb7440efd6d2366
+      internalID: 515583454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_316
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 157
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac04775e52e5b458978251c7a52e09
+      internalID: -985368232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_317
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01436ba60f8ed4e449a47a25b88362c1
+      internalID: 1199455023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_318
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 117
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f2a5001995a14aba89d3fa257a793
+      internalID: 11985824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_319
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 117
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68f9a939be5bf946802d91315df373b
+      internalID: 1813542825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_320
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 116
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca652a0af50cf64184be921de867368
+      internalID: -1244373426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_321
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 116
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645a7fbfab6c4824aa81db34050b7b2f
+      internalID: -753401626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_322
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6e3e412d9bdd4e822d39dc03eabad
+      internalID: 1499093157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_323
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 116
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2101156cac2ad429eac554b7f3c277
+      internalID: -667486102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_324
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 117
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11b092715514c2498013b8add1b2869
+      internalID: -1597123417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_325
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 117
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8bc9d6b37f9b841887e1efd796a2ad
+      internalID: -1558554738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_326
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 77
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663150b8a1a6c154888b5b837deea2a7
+      internalID: -824152597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_327
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 76
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e509b21b9f6ab4ba939a6f32f53fe4
+      internalID: -198448027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_328
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 76
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406fbd698644abb4bb58aef2e8650292
+      internalID: 170173477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_329
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 77
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08561f623c4a4b45a0579520e9cfd0e
+      internalID: -168399918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_330
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560046dbb994ee479a2f22daea0a3d4
+      internalID: 735580956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_331
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6516d433ce10c94bb5d1339cab10f88
+      internalID: -1929813623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_332
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b7ed3bdcacff46a82212e91530bfa
+      internalID: 59664211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_333
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f258408e3f74a4e9a750def42d6180
+      internalID: 1751120123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_334
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 77
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c117531239c2084682320f57e54ffdd
+      internalID: 299133964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_335
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 76
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c426af71b525a947ac0f55d400f494f
+      internalID: 831660650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_336
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 76
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2cd6f0768515a4db442588bcf36de9
+      internalID: -160589939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_337
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 77
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d6444bb3b813468ccfa696adfc89e
+      internalID: -2036820291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_338
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e124916e76e794c43ba1ff4bdcab32e8
+      internalID: -1163465973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_339
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19199c5d112a12f4ca2dc93a1714a2da
+      internalID: 989768769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_340
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883d72248b16fd428ca90dbca20702d
+      internalID: -2144379105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_341
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e833652b8a06ef468c5686b914e0a25
+      internalID: -915187567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_342
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 36
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd270b9cbabc60540bb8e5987546dd20
+      internalID: 1523940549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_343
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 36
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ef712a3fe3424b945ed77905ab47e
+      internalID: -238842792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_344
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 36
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32afe54bee8e40498c3b942b0b8b58c
+      internalID: -667929599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_345
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 37
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281343f67cffbb0449b2f7095a92f088
+      internalID: -1486980116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_346
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df957eb615abff44a64aa3194794613
+      internalID: -1896309205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_347
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb38edfa799c6949ad7bcf2c5f72489
+      internalID: 1192439907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_348
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee46f711432cf340a6dff3666f55352
+      internalID: 19615348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_349
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174583b21394b0b45a6896d71822b738
+      internalID: -1715711772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_350
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5e1f1d15f886e4e914e5ed8416c77a
+      internalID: 55185221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_351
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de15e3a92489c7d46a60b65def172551
+      internalID: -883979477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_352
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05fdb7d89689247b067f2167ccffdd
+      internalID: -1619342177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_353
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a83bc0590733e43b55c0fa592b9906
+      internalID: -1281518253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_354
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9476ad0906f4a8b4ebe96f065e522efc
+      internalID: -428337722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb3_mario_sheet_355
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade9344b8277634a855ad1dcc0ee9a6
+      internalID: -1233571178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      littleMarioAttack1: -983542300
+      littleMarioAttack2: 1799256846
+      littleMarioIdle: 280249846
+      littleMarioJump: 380037688
+      littleMarioJumpAttack: 552098680
+      littleMarioWalk: 868091808
+      smb3_mario_sheet_0: -355109496
+      smb3_mario_sheet_1: 599216328
+      smb3_mario_sheet_10: 1199331922
+      smb3_mario_sheet_100: -755661163
+      smb3_mario_sheet_101: 558180366
+      smb3_mario_sheet_102: 752000403
+      smb3_mario_sheet_103: 324154669
+      smb3_mario_sheet_104: -1269146916
+      smb3_mario_sheet_105: -264620248
+      smb3_mario_sheet_106: -2055897439
+      smb3_mario_sheet_107: 1130974638
+      smb3_mario_sheet_108: 1764903847
+      smb3_mario_sheet_109: 1714020728
+      smb3_mario_sheet_11: -163909290
+      smb3_mario_sheet_110: -285827435
+      smb3_mario_sheet_111: -1261849751
+      smb3_mario_sheet_112: -92437449
+      smb3_mario_sheet_113: 1371546451
+      smb3_mario_sheet_114: -436995463
+      smb3_mario_sheet_115: -1171802989
+      smb3_mario_sheet_116: -616762865
+      smb3_mario_sheet_117: 438657881
+      smb3_mario_sheet_118: 282440442
+      smb3_mario_sheet_119: -796970669
+      smb3_mario_sheet_12: 1126234710
+      smb3_mario_sheet_120: 825869548
+      smb3_mario_sheet_121: 70873559
+      smb3_mario_sheet_122: 91865151
+      smb3_mario_sheet_123: 1259596325
+      smb3_mario_sheet_124: 158808002
+      smb3_mario_sheet_125: 481686047
+      smb3_mario_sheet_126: 1001719932
+      smb3_mario_sheet_127: -1711046652
+      smb3_mario_sheet_128: -1855494327
+      smb3_mario_sheet_129: -294226957
+      smb3_mario_sheet_13: 1421501040
+      smb3_mario_sheet_130: -859749707
+      smb3_mario_sheet_131: -513563516
+      smb3_mario_sheet_132: 209935986
+      smb3_mario_sheet_133: -912338999
+      smb3_mario_sheet_134: -1079166878
+      smb3_mario_sheet_135: 351838879
+      smb3_mario_sheet_136: -1940494573
+      smb3_mario_sheet_137: 1060081772
+      smb3_mario_sheet_138: 272235987
+      smb3_mario_sheet_139: -1986716071
+      smb3_mario_sheet_14: -980383578
+      smb3_mario_sheet_140: -1395450031
+      smb3_mario_sheet_141: 1534717231
+      smb3_mario_sheet_142: -1669426384
+      smb3_mario_sheet_143: -1080723161
+      smb3_mario_sheet_144: -1720858889
+      smb3_mario_sheet_145: 1580835280
+      smb3_mario_sheet_146: 761235564
+      smb3_mario_sheet_147: 506799031
+      smb3_mario_sheet_148: 656692199
+      smb3_mario_sheet_149: 1299082396
+      smb3_mario_sheet_15: -1768986553
+      smb3_mario_sheet_150: 937253815
+      smb3_mario_sheet_151: 712509777
+      smb3_mario_sheet_152: 736013222
+      smb3_mario_sheet_153: 1311018516
+      smb3_mario_sheet_154: 482858034
+      smb3_mario_sheet_155: 89621364
+      smb3_mario_sheet_156: 342080531
+      smb3_mario_sheet_157: -1097962242
+      smb3_mario_sheet_158: -1411609444
+      smb3_mario_sheet_159: 1242966872
+      smb3_mario_sheet_16: -487300939
+      smb3_mario_sheet_160: -1831637306
+      smb3_mario_sheet_161: 1059716635
+      smb3_mario_sheet_162: 714491200
+      smb3_mario_sheet_163: -2041045981
+      smb3_mario_sheet_164: 1070803068
+      smb3_mario_sheet_165: -860438116
+      smb3_mario_sheet_166: 1713090946
+      smb3_mario_sheet_167: 1190526400
+      smb3_mario_sheet_168: -1832589051
+      smb3_mario_sheet_169: -550948355
+      smb3_mario_sheet_17: 325491584
+      smb3_mario_sheet_170: -1126522111
+      smb3_mario_sheet_171: 1534586800
+      smb3_mario_sheet_172: 1413798469
+      smb3_mario_sheet_173: -652930209
+      smb3_mario_sheet_174: 1540577322
+      smb3_mario_sheet_175: -457202761
+      smb3_mario_sheet_176: 1358153656
+      smb3_mario_sheet_177: 1316906587
+      smb3_mario_sheet_178: -714355859
+      smb3_mario_sheet_179: 1076069155
+      smb3_mario_sheet_18: 2044596175
+      smb3_mario_sheet_180: 283112167
+      smb3_mario_sheet_181: -221279481
+      smb3_mario_sheet_182: 1290211882
+      smb3_mario_sheet_183: -1488181625
+      smb3_mario_sheet_184: 1835651660
+      smb3_mario_sheet_185: 1721906846
+      smb3_mario_sheet_186: -824139505
+      smb3_mario_sheet_187: 1607411644
+      smb3_mario_sheet_188: 2060368974
+      smb3_mario_sheet_189: -1811759352
+      smb3_mario_sheet_19: -539705693
+      smb3_mario_sheet_190: -625999186
+      smb3_mario_sheet_191: -1100489892
+      smb3_mario_sheet_192: 1332466169
+      smb3_mario_sheet_193: -679569340
+      smb3_mario_sheet_194: 555866922
+      smb3_mario_sheet_195: 2045230825
+      smb3_mario_sheet_196: 839507203
+      smb3_mario_sheet_197: -1802401110
+      smb3_mario_sheet_198: 1993649966
+      smb3_mario_sheet_199: 11148911
+      smb3_mario_sheet_2: 1713702344
+      smb3_mario_sheet_200: -830126065
+      smb3_mario_sheet_201: 1740536153
+      smb3_mario_sheet_202: -1627921384
+      smb3_mario_sheet_203: -168407661
+      smb3_mario_sheet_204: -584732934
+      smb3_mario_sheet_205: -1509581487
+      smb3_mario_sheet_206: -2098065118
+      smb3_mario_sheet_207: -1854666909
+      smb3_mario_sheet_208: -994728340
+      smb3_mario_sheet_209: -150773999
+      smb3_mario_sheet_210: 15223408
+      smb3_mario_sheet_211: -1668750367
+      smb3_mario_sheet_212: 486382767
+      smb3_mario_sheet_213: 206692898
+      smb3_mario_sheet_214: 1565150820
+      smb3_mario_sheet_215: 1425120874
+      smb3_mario_sheet_216: -1649206102
+      smb3_mario_sheet_217: -1781431363
+      smb3_mario_sheet_218: -2120920304
+      smb3_mario_sheet_219: -1072478866
+      smb3_mario_sheet_220: -2052746779
+      smb3_mario_sheet_221: 728086673
+      smb3_mario_sheet_222: -1903138416
+      smb3_mario_sheet_223: 1153474444
+      smb3_mario_sheet_224: -735417814
+      smb3_mario_sheet_225: -1773185615
+      smb3_mario_sheet_226: -1232565476
+      smb3_mario_sheet_227: 265336447
+      smb3_mario_sheet_228: -1684424990
+      smb3_mario_sheet_229: -208098498
+      smb3_mario_sheet_23: -696604654
+      smb3_mario_sheet_230: 1738598570
+      smb3_mario_sheet_231: 228903024
+      smb3_mario_sheet_232: -900545373
+      smb3_mario_sheet_233: -1989051865
+      smb3_mario_sheet_234: 1004760206
+      smb3_mario_sheet_235: -1268873008
+      smb3_mario_sheet_236: -1840020571
+      smb3_mario_sheet_237: -1847232157
+      smb3_mario_sheet_238: 1710632473
+      smb3_mario_sheet_239: 579278420
+      smb3_mario_sheet_24: -1174776102
+      smb3_mario_sheet_240: 793984274
+      smb3_mario_sheet_241: 1349884855
+      smb3_mario_sheet_242: -913650856
+      smb3_mario_sheet_243: 1753108812
+      smb3_mario_sheet_244: -1740064168
+      smb3_mario_sheet_245: -813153748
+      smb3_mario_sheet_246: -1673357030
+      smb3_mario_sheet_247: 1084029553
+      smb3_mario_sheet_248: 199602386
+      smb3_mario_sheet_249: -2132923428
+      smb3_mario_sheet_25: 917184422
+      smb3_mario_sheet_250: -55785697
+      smb3_mario_sheet_251: 139499314
+      smb3_mario_sheet_252: 1337652980
+      smb3_mario_sheet_253: 1996940820
+      smb3_mario_sheet_254: -212370654
+      smb3_mario_sheet_255: 1822918485
+      smb3_mario_sheet_256: -608912472
+      smb3_mario_sheet_257: -1722131436
+      smb3_mario_sheet_258: 1247547873
+      smb3_mario_sheet_259: -1177865755
+      smb3_mario_sheet_26: 668267815
+      smb3_mario_sheet_260: -504946760
+      smb3_mario_sheet_261: -1422977617
+      smb3_mario_sheet_262: 311278587
+      smb3_mario_sheet_263: -161042716
+      smb3_mario_sheet_264: 2074451846
+      smb3_mario_sheet_265: 1250127706
+      smb3_mario_sheet_266: 814292144
+      smb3_mario_sheet_267: 2101591154
+      smb3_mario_sheet_268: 86444296
+      smb3_mario_sheet_269: -181175974
+      smb3_mario_sheet_27: 151697576
+      smb3_mario_sheet_270: -521192668
+      smb3_mario_sheet_271: 1935359255
+      smb3_mario_sheet_272: -188263788
+      smb3_mario_sheet_273: 275424604
+      smb3_mario_sheet_274: -1555250704
+      smb3_mario_sheet_275: -916767737
+      smb3_mario_sheet_276: -901157345
+      smb3_mario_sheet_277: 2124038536
+      smb3_mario_sheet_278: 1535907909
+      smb3_mario_sheet_279: 1179452582
+      smb3_mario_sheet_280: 749598388
+      smb3_mario_sheet_281: 1115631736
+      smb3_mario_sheet_282: 2048936620
+      smb3_mario_sheet_283: 1489984647
+      smb3_mario_sheet_284: 2024173904
+      smb3_mario_sheet_285: -1415037769
+      smb3_mario_sheet_286: 1963193419
+      smb3_mario_sheet_287: -779377377
+      smb3_mario_sheet_288: 1037829123
+      smb3_mario_sheet_289: 633843300
+      smb3_mario_sheet_29: -1184540413
+      smb3_mario_sheet_290: -880829338
+      smb3_mario_sheet_291: -1436346687
+      smb3_mario_sheet_292: 514495046
+      smb3_mario_sheet_293: -1616221144
+      smb3_mario_sheet_294: -1283619928
+      smb3_mario_sheet_295: -972842700
+      smb3_mario_sheet_296: -1449178186
+      smb3_mario_sheet_297: 376681069
+      smb3_mario_sheet_298: -1893443376
+      smb3_mario_sheet_299: 1986594148
+      smb3_mario_sheet_3: 1771355733
+      smb3_mario_sheet_30: -882807489
+      smb3_mario_sheet_300: 903429406
+      smb3_mario_sheet_301: -1294121866
+      smb3_mario_sheet_302: 751055133
+      smb3_mario_sheet_303: 1768087404
+      smb3_mario_sheet_304: 1694579306
+      smb3_mario_sheet_305: -1625705498
+      smb3_mario_sheet_306: 570489976
+      smb3_mario_sheet_307: -373816351
+      smb3_mario_sheet_308: -348291055
+      smb3_mario_sheet_309: -1953525730
+      smb3_mario_sheet_31: 1336157151
+      smb3_mario_sheet_310: -1340155626
+      smb3_mario_sheet_311: -1668400857
+      smb3_mario_sheet_312: 266971983
+      smb3_mario_sheet_313: -2135229088
+      smb3_mario_sheet_314: 1439626970
+      smb3_mario_sheet_315: 515583454
+      smb3_mario_sheet_316: -985368232
+      smb3_mario_sheet_317: 1199455023
+      smb3_mario_sheet_318: 11985824
+      smb3_mario_sheet_319: 1813542825
+      smb3_mario_sheet_32: 1075709344
+      smb3_mario_sheet_320: -1244373426
+      smb3_mario_sheet_321: -753401626
+      smb3_mario_sheet_322: 1499093157
+      smb3_mario_sheet_323: -667486102
+      smb3_mario_sheet_324: -1597123417
+      smb3_mario_sheet_325: -1558554738
+      smb3_mario_sheet_326: -824152597
+      smb3_mario_sheet_327: -198448027
+      smb3_mario_sheet_328: 170173477
+      smb3_mario_sheet_329: -168399918
+      smb3_mario_sheet_33: 1604595258
+      smb3_mario_sheet_330: 735580956
+      smb3_mario_sheet_331: -1929813623
+      smb3_mario_sheet_332: 59664211
+      smb3_mario_sheet_333: 1751120123
+      smb3_mario_sheet_334: 299133964
+      smb3_mario_sheet_335: 831660650
+      smb3_mario_sheet_336: -160589939
+      smb3_mario_sheet_337: -2036820291
+      smb3_mario_sheet_338: -1163465973
+      smb3_mario_sheet_339: 989768769
+      smb3_mario_sheet_34: -1200436176
+      smb3_mario_sheet_340: -2144379105
+      smb3_mario_sheet_341: -915187567
+      smb3_mario_sheet_342: 1523940549
+      smb3_mario_sheet_343: -238842792
+      smb3_mario_sheet_344: -667929599
+      smb3_mario_sheet_345: -1486980116
+      smb3_mario_sheet_346: -1896309205
+      smb3_mario_sheet_347: 1192439907
+      smb3_mario_sheet_348: 19615348
+      smb3_mario_sheet_349: -1715711772
+      smb3_mario_sheet_35: -1947393837
+      smb3_mario_sheet_350: 55185221
+      smb3_mario_sheet_351: -883979477
+      smb3_mario_sheet_352: -1619342177
+      smb3_mario_sheet_353: -1281518253
+      smb3_mario_sheet_354: -428337722
+      smb3_mario_sheet_355: -1233571178
+      smb3_mario_sheet_38: -920782039
+      smb3_mario_sheet_39: 1498860891
+      smb3_mario_sheet_4: -707504881
+      smb3_mario_sheet_40: 419445453
+      smb3_mario_sheet_41: 360156146
+      smb3_mario_sheet_42: 1172954166
+      smb3_mario_sheet_43: -288284188
+      smb3_mario_sheet_44: -876537973
+      smb3_mario_sheet_45: -1580693795
+      smb3_mario_sheet_46: -1610227461
+      smb3_mario_sheet_47: 113154809
+      smb3_mario_sheet_48: -109104279
+      smb3_mario_sheet_49: 1033777691
+      smb3_mario_sheet_5: -1885675958
+      smb3_mario_sheet_50: -492945528
+      smb3_mario_sheet_51: -1542903212
+      smb3_mario_sheet_52: -360240780
+      smb3_mario_sheet_53: 1936587465
+      smb3_mario_sheet_54: 1988965811
+      smb3_mario_sheet_55: 631334035
+      smb3_mario_sheet_56: 631865782
+      smb3_mario_sheet_57: -194927487
+      smb3_mario_sheet_58: -1226358068
+      smb3_mario_sheet_59: -1821344174
+      smb3_mario_sheet_6: 304894123
+      smb3_mario_sheet_60: -170290852
+      smb3_mario_sheet_61: 1360553803
+      smb3_mario_sheet_62: 846417220
+      smb3_mario_sheet_63: 498238232
+      smb3_mario_sheet_64: 52447492
+      smb3_mario_sheet_65: 1379764854
+      smb3_mario_sheet_66: -805868171
+      smb3_mario_sheet_67: 243493848
+      smb3_mario_sheet_68: -1056101806
+      smb3_mario_sheet_69: -2082505906
+      smb3_mario_sheet_7: 1260345446
+      smb3_mario_sheet_70: -34181839
+      smb3_mario_sheet_71: 1008099858
+      smb3_mario_sheet_72: 560920516
+      smb3_mario_sheet_73: -1465250381
+      smb3_mario_sheet_74: 1707220804
+      smb3_mario_sheet_75: -848227884
+      smb3_mario_sheet_76: -387397718
+      smb3_mario_sheet_77: -1952944818
+      smb3_mario_sheet_78: 1433419664
+      smb3_mario_sheet_79: -1655994117
+      smb3_mario_sheet_8: -1621535635
+      smb3_mario_sheet_80: 368101924
+      smb3_mario_sheet_81: 1737423942
+      smb3_mario_sheet_82: 245574115
+      smb3_mario_sheet_83: -249643557
+      smb3_mario_sheet_84: 1994408524
+      smb3_mario_sheet_85: 1936507353
+      smb3_mario_sheet_86: 1579049691
+      smb3_mario_sheet_87: 1152441590
+      smb3_mario_sheet_88: -309588007
+      smb3_mario_sheet_89: -1828281988
+      smb3_mario_sheet_9: 1296898984
+      smb3_mario_sheet_90: 209796031
+      smb3_mario_sheet_91: -1931968151
+      smb3_mario_sheet_92: -1171245048
+      smb3_mario_sheet_93: -1422794932
+      smb3_mario_sheet_94: 1282812882
+      smb3_mario_sheet_95: 1326055148
+      smb3_mario_sheet_96: 853965476
+      smb3_mario_sheet_97: 1319839046
+      smb3_mario_sheet_98: -1135176736
+      smb3_mario_sheet_99: 650671571
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
