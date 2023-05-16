@@ -35,7 +35,7 @@ public class PlayerController : MonoBehaviour
             //if (_lives <= 0)  gameover
         }
     }
-    private int _lives = 3;
+    private int _lives = 1;
 
     public int score
     {
@@ -44,13 +44,14 @@ public class PlayerController : MonoBehaviour
         {
          
             _score = value;
-
+            
             Debug.Log("Score value has changed to " + _score.ToString());
            
         }
     }
-    private int _score = 3;
+    private int _score = 0;
 
+    
 
     // Start is called before the first frame update
     void Start()
@@ -65,7 +66,10 @@ public class PlayerController : MonoBehaviour
         if (groundCheckRadius <= 0) groundCheckRadius = 0.02f;
 
         if (!groundCheck) groundCheck = GameObject.FindGameObjectWithTag("GroundCheck").GetComponent<Transform>();
+
+        
     }
+
 
     // Update is called once per frame
     void Update()

@@ -35,14 +35,16 @@ public class Enemy : MonoBehaviour
                 movingRight = true;
             }
         }
-        void OnCollisionEnter(Collision collision)
+    }
+
+    void OnCollisionEnter(Collision collision)
+    {
+        // Check if the collision is with a projectile
+        if (collision.gameObject.CompareTag("Projectile"))
         {
-            if (collision.gameObject.CompareTag("Projectile"))
-            {
-                Destroy(gameObject); // Destroy the enemy game object
-            }
+            // Destroy the enemy game object
+            Destroy(gameObject);
         }
     }
 }
-
 
