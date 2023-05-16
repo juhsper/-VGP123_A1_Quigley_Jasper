@@ -19,7 +19,7 @@ public class Pickups : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             PlayerController myController = collision.gameObject.GetComponent<PlayerController>();
-            
+
 
             if (currentPickup == PickupType.Powerup)
             {
@@ -36,8 +36,8 @@ public class Pickups : MonoBehaviour
             }
 
             // do something in regards to score
-                myController.score++;
-                Destroy(gameObject);
+            myController.score++;
+            Destroy(gameObject);
 
 
         }
